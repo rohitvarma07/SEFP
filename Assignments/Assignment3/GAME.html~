@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 </head>
-<body style=background-image:url("11.jpg");>
+<body style=background-image:url("172.jpg");>
 <img id="one" src="loading1.gif" style="position:absolute; left:15%; height:70%; width:70%; top:20%;" />
 <audio controls id="two" onended="moveRight();" onpause="moveRight();">
   
