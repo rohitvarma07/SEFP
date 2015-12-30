@@ -1,0 +1,18 @@
+Program Version 1.0 30/12/2015
+
+General Usage Notes:
+
+This is a game where you need to shift the alphabets in such a way that all the alpphabets are arranged in an order. 
+
+Try to put all the pieces in alphabetical order, 'అ' through 'ఔ'.
+The number of moves done by a player to complete the game will be mentioned below.
+
+There is no undo option.
+
+Time taken by the player will not be counted,so you can take your own time in solving the matrix.
+
+Alphabets are generated randomly whenever the page is refreshed,so you cannot expect the same set of alphabets every time.
+
+
+
+
